@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    background-color: #fffbf9;
+}
+
+* {
+    color: #0d0d0d;
+    font-family: "Courier Prime", monospace;
+}

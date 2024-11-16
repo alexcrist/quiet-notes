@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex: 1;
+}
+
+.textarea {
+    flex: 1;
+    margin: 20px;
+    font-size: 20px;
+    line-height: 1.2;
+    outline: none;
+    border: none;
+    resize: none;
+    background-color: transparent;
+}

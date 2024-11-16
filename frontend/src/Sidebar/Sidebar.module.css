@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 255px;
+    margin: 0 0 0 20px;
+    padding: 10px 0;
+    overflow-y: auto;
+}
+
+.title {
+    display: flex;
+    font-size: 16px;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.title:hover {
+    background-color: #efebe9;
+}
+
+.ellipsis {
+    opacity: 0.8;
+    margin-left: 1px;
+}
